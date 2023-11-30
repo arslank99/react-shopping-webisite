@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fc607156.css",
+    "main.js": "/react-gh-pages/static/js/main.d910c712.js",
+    "static/media/img-2.png": "/react-gh-pages/static/media/img-2.40b1f3877d04d8ecd61c.png",
+    "static/media/img-1.png": "/react-gh-pages/static/media/img-1.5a9977385de7381e6e72.png",
+    "static/media/login-bg.jpg": "/react-gh-pages/static/media/login-bg.0f1920b0014a17420acb.jpg",
+    "static/media/banner-4.jpg": "/react-gh-pages/static/media/banner-4.7a294fde3b0de6cf65f6.jpg",
+    "static/media/about-header-bg.jpg": "/react-gh-pages/static/media/about-header-bg.884b70ee178e26155478.jpg",
+    "static/media/member-1.jpg": "/react-gh-pages/static/media/member-1.23a67be69a74236865fb.jpg",
+    "static/media/member-2.jpg": "/react-gh-pages/static/media/member-2.b4e8693868eb4f5a1318.jpg",
+    "static/media/4.jpg": "/react-gh-pages/static/media/4.1c4dd096312d9ebce830.jpg",
+    "static/media/img-2.jpg": "/react-gh-pages/static/media/img-2.76a0ee5b1eaae367c069.jpg",
+    "static/media/contact-header-bg.jpg": "/react-gh-pages/static/media/contact-header-bg.43d32a22caa3e08af8da.jpg",
+    "static/media/C-img-2.jpg": "/react-gh-pages/static/media/C-img-2.90862953d4f3d1dfa2f4.jpg",
+    "static/media/banner-6.jpg": "/react-gh-pages/static/media/banner-6.cd28f130f6331d006de4.jpg",
+    "static/media/member-3.jpg": "/react-gh-pages/static/media/member-3.f03f06bb8682d79f62f4.jpg",
+    "static/media/C-img-1.jpg": "/react-gh-pages/static/media/C-img-1.4766c6bcf398d9f2a9e6.jpg",
+    "static/media/5.jpg": "/react-gh-pages/static/media/5.e68492bb9f08b16165e5.jpg",
+    "static/media/2.jpg": "/react-gh-pages/static/media/2.e8dc4754756ca1444ddb.jpg",
+    "static/media/6.jpg": "/react-gh-pages/static/media/6.0165ef356b846d7e49e8.jpg",
+    "static/media/3.jpg": "/react-gh-pages/static/media/3.5eae450074e117784cf1.jpg",
+    "static/media/1.jpg": "/react-gh-pages/static/media/1.2bd1b6976850c994fe1d.jpg",
+    "static/media/banner-3.jpg": "/react-gh-pages/static/media/banner-3.417d49b8ce04ea88b22c.jpg",
+    "static/media/banner-2.jpg": "/react-gh-pages/static/media/banner-2.a4068a5e75124bbfdf02.jpg",
+    "static/media/banner-5.jpg": "/react-gh-pages/static/media/banner-5.5ea22b7d4a5008785c9e.jpg",
+    "static/media/error-bg.jpg": "/react-gh-pages/static/media/error-bg.c41c0a3dada570514b09.jpg",
+    "static/media/img-1.jpg": "/react-gh-pages/static/media/img-1.dbd793e9f0eb50cfc286.jpg",
+    "static/media/slick.svg": "/react-gh-pages/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-gh-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-gh-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-gh-pages/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-gh-pages/index.html",
+    "main.fc607156.css.map": "/react-gh-pages/static/css/main.fc607156.css.map",
+    "main.d910c712.js.map": "/react-gh-pages/static/js/main.d910c712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc607156.css",
+    "static/js/main.d910c712.js"
+  ]
+}
